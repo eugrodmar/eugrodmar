@@ -82,7 +82,7 @@ Antes de entrar en el mundo SAP, desarrollé una **aplicación web** para una fu
 
 ## **Conectemos..!** <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60">
 
-- [![linkedin](https://img.shields.io/badge/linkedin:%20Eugenio Rodríguez Martín-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eromasev/)
+- [![linkedin](https://img.shields.io/badge/linkedin:%20Eugenio_Rodríguez_Martín-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eromasev/)
 
 - [![](https://img.shields.io/badge/gmail:%20eugrodmar@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugrodmar@gmail.com)
 
