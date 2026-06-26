@@ -82,15 +82,15 @@ Antes de entrar en el mundo SAP, desarrollé una **aplicación web** para una fu
 
 ## **Conectemos..!** <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60">
 
-- [![linkedin](https://img.shields.io/badge/linkedin:%20TU_NOMBRE_AQUÍ-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-URL-LINKEDIN-AQUÍ/)
-  <!-- 👆 Reemplaza TU_NOMBRE_AQUÍ y TU-URL-LINKEDIN-AQUÍ con tus datos reales -->
+- [![linkedin](https://img.shields.io/badge/linkedin:%20TU_NOMBRE_AQUÍ-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eromasev/)
 
-- [![](https://img.shields.io/badge/gmail:%20TU_EMAIL_AQUÍ-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL_AQUÍ@gmail.com)
-  <!-- 👆 Reemplaza TU_EMAIL_AQUÍ con tu dirección de email real -->
+- [![](https://img.shields.io/badge/gmail:%20TU_EMAIL_AQUÍ-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugrodmar@gmail.com)
+
 
 [![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## **¡Gracias por visitar mi perfil!** 🙌
+## **¡Gracias por visitar mi perfil!**
+## **¡Seguiremos informando! 🫡**
 
 ---
 
