@@ -14,7 +14,7 @@
 
 ## Sobre mí
 
-Desarrollador con base en **Desarrollo de Aplicaciones Web** y especialización actual en **SAP Business Technology Platform**. Mi trayectoria no es lineal: viene de las Humanidades, pasa por el desarrollo web y llega al ecosistema SAP. Eso me da una perspectiva distinta a la hora de entender problemas y construir soluciones.
+Desarrollador con base en **Desarrollo de Aplicaciones Web** y especialización actual en **SAP ABAP Cloud y SAP Business Technology Platform**. Mi trayectoria no es lineal: viene de las Humanidades, pasa por el desarrollo web y llega al ecosistema SAP. Eso me da una perspectiva distinta a la hora de entender problemas y construir soluciones.
 
 ---
 
