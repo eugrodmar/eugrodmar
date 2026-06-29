@@ -83,9 +83,14 @@ Herramienta para la generación automatizada de escaletas en formato PDF para pr
 
 ---
 
+
 ### SAP · ABAP Cloud
 
-> Próximamente — proyectos en desarrollo durante la formación en Experis Academy.
+**[ABAP Cloud · Ejercicios y Práctica](https://github.com/eugrodmar/ABAP_Cloud_Repository)**
+Repositorio de ejercicios desarrollados durante la formación en SAP BTP & ABAP Cloud en Experis Academy. Organizado en varios bloques: modelado de datos con **CDS Views**, consultas ABAP sobre esos modelos, y desarrollo de servicios RESTful con el **modelo RAP** para su consumo desde SAP Fiori.
+
+`ABAP Cloud` `CDS Views` `RAP Model` `SAP HANA` `SAP Fiori`
+
 
 ---
 <div align="center">
