@@ -1,14 +1,6 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/eugrodmar/eugrodmar/main/banner.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### [EUGENIO RODRÍGUEZ MARTÍN]
+### EUGENIO RODRÍGUEZ MARTÍN
 **Desarrollador/a SAP Back-End · DAW · AWS**
 
 `Sevilla, España`
