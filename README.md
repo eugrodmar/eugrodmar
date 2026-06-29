@@ -1,7 +1,7 @@
 <div align="center">
 
 ### EUGENIO RODRÍGUEZ MARTÍN
-**Desarrollador/a SAP Back-End · DAW · AWS**
+**Desarrollador SAP Back-End · DAW**
 
 `Sevilla, España`
 
