@@ -1,97 +1,89 @@
-# ¡Hola! Soy Eugenio Rodríguez Martín 
+<div align="center">
+
+![banner](https://raw.githubusercontent.com/eugrodmar/eugrodmar/main/banner.svg)
+
+</div>
 
 ---
 
-### 👩‍💻 Sobre mí (About Me)
+<div align="center">
 
-¡Hola! Soy un/a desarrollador/a con una trayectoria no convencional y una visión única del desarrollo de software.
+### [EUGENIO RODRÍGUEZ MARTÍN]
+**Desarrollador/a SAP Back-End · DAW · AWS**
 
-Con base en **Desarrollo de Aplicaciones Web (DAW)** y actualmente especializándome en **SAP Business Technology Platform (BTP)** y **ABAP Cloud**, combino mi experiencia técnica con una perspectiva humanística que me permite entender mejor las necesidades reales de los usuarios.
+`Sevilla, España`
 
-Mi enfoque en el ecosistema SAP se centra en:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eromasev/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eugrodmar@gmail.com)
 
-- **ABAP Cloud:** Programación orientada a objetos, clases ABAP, tablas internas y gestión de excepciones.
-- **CDS Views:** Modelado de datos sobre múltiples tablas con campos calculados y operaciones avanzadas.
-- **RAP Model:** ABAP RESTful Application Programming y personalización de vistas en SAP Fiori.
-- **SAP BTP:** Plataforma cloud para el desarrollo de extensiones y soluciones empresariales modernas.
-
-Antes de entrar en el mundo SAP, desarrollé una **aplicación web** para una fundación cultural integrando **WebGL** para contenido Unity, panel de control con roles, geolocalización en BBDD vía JSON, e infraestructura en **AWS EC2**.
+</div>
 
 ---
 
-### 🚀 Mi Roadmap Actual
+## Sobre mí
 
-- **ABAP Cloud:** Consolidando programación orientada a objetos y consultas SQL sobre SAP.
-- **CDS Views & RAP:** Profundizando en modelado de datos y arquitectura RESTful en S/4HANA.
-- **SAP Fiori:** Personalización de vistas y desarrollo de aplicaciones de usuario.
-- **Certificación:** Preparándome para obtener certificaciones oficiales SAP BTP / ABAP Cloud.
-
-[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-### 🎯 Formación SAP (Experis Academy | 2026)
-
-[![SAP BTP](https://img.shields.io/badge/SAP_BTP_Foundations-En_Progreso-008FD3?style=for-the-badge&logo=sap)](https://github.com)
-[![ABAP Cloud](https://img.shields.io/badge/ABAP_Cloud-En_Progreso-lightgrey?style=for-the-badge&logo=sap)](https://github.com)
-[![RAP Model](https://img.shields.io/badge/RAP_Model-En_Progreso-lightgrey?style=for-the-badge&logo=sap)](https://github.com)
-[![Certificación](https://img.shields.io/badge/Certificación_Oficial-Próximamente-orange?style=for-the-badge&logo=sap)](https://github.com)
-
-> **"Combinando una base humanística sólida con el ecosistema SAP para construir soluciones empresariales que realmente conecten con las personas."**
-
-[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Skills & Herramientas**
-
-- **Ecosistema SAP (Especialización)**:
-
-    [![SAP BTP](https://img.shields.io/badge/SAP%20BTP-008FD3?style=for-the-badge&logo=sap&logoColor=white)](https://github.com)
-    [![ABAP Cloud](https://img.shields.io/badge/ABAP%20Cloud-008FD3?style=for-the-badge&logo=sap&logoColor=white)](https://github.com)
-    [![SAP HANA](https://img.shields.io/badge/SAP%20HANA-008FD3?style=for-the-badge&logo=sap&logoColor=white)](https://github.com)
-    [![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-008FD3?style=for-the-badge&logo=sap&logoColor=white)](https://github.com)
-    [![CDS Views](https://img.shields.io/badge/CDS%20Views-008FD3?style=for-the-badge&logo=sap&logoColor=white)](https://github.com)
-    [![RAP Model](https://img.shields.io/badge/RAP%20Model-008FD3?style=for-the-badge&logo=sap&logoColor=white)](https://github.com)
-
-- **Desarrollo Web & Backend (DAW)**:
-
-    [![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com)
-    [![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com)
-    [![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com)
-    [![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)](https://github.com)
-    [![Java](https://img.shields.io/badge/Java%20-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com)
-    [![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com)
-
-- **Cloud & Infraestructura**:
-
-    [![AWS](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com)
-    [![SAP BTP Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white)](https://github.com)
-
-- **Bases de Datos**:
-
-    [![SAP HANA Cloud](https://img.shields.io/badge/HANA%20Cloud-008FD3?style=for-the-badge&logo=sap&logoColor=white)](https://github.com)
-    [![MySQL](https://img.shields.io/badge/MySQL-005C8F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com)
-    [![SQL](https://img.shields.io/badge/SQL-0000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com)
-
-- **Herramientas & IDEs**:
-
-    [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com)
-    [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-    [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com)
-    [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://github.com)
-    [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com)
-
-[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-## **Conectemos..!** <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60">
-
-- [![linkedin](https://img.shields.io/badge/linkedin:%20Eugenio_Rodríguez_Martín-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eromasev/)
-
-- [![](https://img.shields.io/badge/gmail:%20eugrodmar@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugrodmar@gmail.com)
-
-
-[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-## **¡Gracias por visitar mi perfil!**
-## **¡Seguiremos informando! 🫡**
+Desarrollador/a con base en **Desarrollo de Aplicaciones Web** y especialización actual en **SAP Business Technology Platform**. Mi trayectoria no es lineal — viene de las Humanidades, pasa por el desarrollo web y llega al ecosistema SAP — y eso me da una perspectiva distinta a la hora de entender problemas y construir soluciones.
 
 ---
 
-*Última edición: Junio 2026*
+## Trayectoria
+
+```
+2014  Licenciatura en Historia              Universidad de Sevilla
+2015  Máster en Profesorado ESO/Bach.       Universidad Pablo de Olavide
+2025  Técnico Superior DAW                  MEDAC, Sevilla
+      └─ Proyecto: web + WebGL + AWS EC2    Fundación Davante
+2026  Formación SAP BTP · ABAP Cloud        Experis Academy — Junta de Andalucía
+      └─ ABAP OO · CDS Views · RAP Model · SAP Fiori
+```
+
+---
+
+## Stack técnico
+
+**Ecosistema SAP**
+
+![SAP BTP](https://img.shields.io/badge/SAP_BTP-0066CC?style=flat-square&logo=sap&logoColor=white)
+![ABAP Cloud](https://img.shields.io/badge/ABAP_Cloud-0066CC?style=flat-square&logo=sap&logoColor=white)
+![CDS Views](https://img.shields.io/badge/CDS_Views-0066CC?style=flat-square&logo=sap&logoColor=white)
+![RAP Model](https://img.shields.io/badge/RAP_Model-0066CC?style=flat-square&logo=sap&logoColor=white)
+![SAP Fiori](https://img.shields.io/badge/SAP_Fiori-0066CC?style=flat-square&logo=sap&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/SAP_HANA-0066CC?style=flat-square&logo=sap&logoColor=white)
+
+**Desarrollo web**
+
+![HTML5](https://img.shields.io/badge/HTML5-6B7280?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-6B7280?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6B7280?style=flat-square&logo=javascript&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-6B7280?style=flat-square&logo=webgl&logoColor=white)
+![Java](https://img.shields.io/badge/Java-6B7280?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6B7280?style=flat-square&logo=python&logoColor=white)
+
+**Infraestructura y datos**
+
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-374151?style=flat-square&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-374151?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-374151?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## En progreso
+
+- Preparando certificación oficial **SAP BTP / ABAP Cloud**.
+
+---
+
+## Estadísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eugrodmar&show_icons=true&theme=default&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=374151&bg_color=ffffff)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Actualizado · Junio 2026</sub>
+</div>
+
