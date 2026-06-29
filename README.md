@@ -65,16 +65,29 @@ Desarrollador con base en **Desarrollo de Aplicaciones Web** y especialización 
 
 ---
 
-## Estadísticas
+## Proyectos
 
-<div align="center">
+### Desarrollo Web
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eugrodmar&show_icons=true&theme=default&hide_border=true&title_color=0066CC&icon_color=0066CC&text_color=374151&bg_color=ffffff)
+**[VisitaDAVANTE](https://github.com/marvgomexp/visitasvirtuales)**
+Plataforma de visitas virtuales 360° para los centros de formación de Davante. Permite recorrer las instalaciones de forma libre o guiada, consultar información del centro y acceder a contenido didáctico para alumnos matriculados. Desarrollada en equipo como proyecto final de DAW, con integración de WebGL para contenido Unity e infraestructura desplegada en AWS EC2.
 
-</div>
+`JavaScript` `WebGL` `HTML5` `CSS3` `AWS EC2` `Unity`
 
 ---
 
+**[Plataforma TUA](https://github.com/eugrodmar/plataformatua)**
+Herramienta para la generación automatizada de escaletas en formato PDF para programas de radio. El usuario construye la estructura del programa a través de la plataforma y exporta el resultado como documento listo para producción.
+
+`JavaScript` `HTML5` `CSS3` `PDF generation`
+
+---
+
+### SAP · ABAP Cloud
+
+> Próximamente — proyectos en desarrollo durante la formación en Experis Academy.
+
+---
 <div align="center">
 <sub>Actualizado · Junio 2026</sub>
 </div>
