@@ -94,7 +94,7 @@ Repositorio de ejercicios desarrollados durante la formación en SAP BTP & ABAP 
 ---
 
 **[SAP Practice · Ejercicios Autodidactas](https://github.com/eugrodmar/sap_practice)** 
-Repositorio personal de práctica continua en SAP ABAP y SAP BTP, creado tras finalizar mi formación para seguir afianzando conceptos por mi cuenta. Cada ejercicio es independiente y aborda un bloque distinto — desde internal tables y programación orientada a objetos, pasando por testing automatizado con ABAP Unit, hasta futuros bloques con el modelo RAP y extensiones en BTP.
+Repositorio personal de práctica continua en **SAP ABAP** y **SAP BTP**, creado tras finalizar mi formación para seguir afianzando conceptos por mi cuenta. Cada ejercicio es independiente y aborda un bloque distinto — desde internal tables y programación orientada a objetos, pasando por testing automatizado con **ABAP Unit**, hasta futuros bloques con el modelo **RAP** y extensiones en **BTP**.
 
 `ABAP ABAP` `Unit` `SAP BTP` `OOP` `RAP`
 
