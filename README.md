@@ -100,6 +100,6 @@ Repositorio personal de práctica continua en **SAP ABAP** y **SAP BTP**, creado
 
 ---
 <div align="center">
-<sub>Actualizado · Agosto 2026</sub>
+<sub>Actualizado · Septiembre 2026</sub>
 </div>
 
