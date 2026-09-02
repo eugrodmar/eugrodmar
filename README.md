@@ -77,7 +77,7 @@ Plataforma de visitas virtuales 360° para los centros de formación de Davante.
 ---
 
 **[Plataforma TUA](https://github.com/eugrodmar/plataformatua)**
-Herramienta para la generación automatizada de escaletas en formato PDF para programas de radio. El usuario construye la estructura del programa a través de la plataforma y exporta el resultado como documento listo para producción.
+Herramienta para la generación automatizada de escaletas en formato PDF para programas de radio. El usuario construye la estructura del programa a través de la plataforma y exporta el resultado como documento listo para producción. Cuenta también con un buscador de temas ya tratados por palabra clave en el nombre y la descripción de los episodios publicados en Spotify y en iVoox.
 
 `JavaScript` `HTML5` `CSS3` `PDF generation`
 
